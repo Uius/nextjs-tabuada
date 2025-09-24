@@ -1,0 +1,3 @@
+@url = https://effective-spoon-7v76g4wgwv9p2xpr6-3000.app.github.dev/api
+
+GET {{url}}/tabuada?numero=10
